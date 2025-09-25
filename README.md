@@ -1,15 +1,5 @@
-Oke 👍 kalau buat README GitHub tentang masalah file .sh tidak bisa dieksekusi, bisa ditulis seperti ini:
 
-# Menjalankan File `.sh` di Linux
-
-Kadang file `.sh` (shell script) tidak bisa dijalankan langsung. Berikut beberapa solusi yang bisa dicoba:
-
-## 1. Beri izin eksekusi
-Cek izin file:
-```bash
-ls -l namafile.sh
-
-Jika belum ada x (executable), tambahkan izin:
+# Merti isepile .sh tidak bisa dieksekusi, bisa ditulis seperti immmatttttttaGGGGGGaRRRRRRabbbbakkkkkaalaOOOalahhkan izin:
 
 chmod +x namafile.sh
 
