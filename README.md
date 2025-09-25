@@ -1,5 +1,5 @@
 
-# Merti isepile .sh tidak bisa dieksekusi, bisa ditulis seperti immmatttttttaGGGGGGaRRRRRRabbbbakkkkkaalaOOOalahhkan izin:
+# Merti isepile .sh tidak bisa dieksekusi, bisa ditulis seperti  izin:
 
 chmod +x namafile.sh
 
