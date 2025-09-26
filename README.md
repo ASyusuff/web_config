@@ -1,3 +1,5 @@
+### exec: Failed to execute process './web.sh':  The file uses Windows line endings (\r\n). Run dos2unix or similar to fix it.
+
 
 1. File .sh tidak bisa dieksekusi, bisa ditulis seperti  izin:
 ```
