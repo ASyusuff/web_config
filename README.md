@@ -1,8 +1,8 @@
 
 1. File .sh tidak bisa dieksekusi, bisa ditulis seperti  izin:
-
+```
 chmod +x namafile.sh
-
+```
 Lalu jalankan:
 
 ./namafile.sh
