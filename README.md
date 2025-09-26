@@ -7,7 +7,7 @@ Lalu jalankan:
 
 ./namafile.sh
 
-
+___
 
 2. Perbaiki Format File
 
